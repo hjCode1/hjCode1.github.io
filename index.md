@@ -1,6 +1,6 @@
 ---
 layout: home
 ---
-# 블로그에 오신걸 환영합니다!
+# Welcome to my blog
 
 공부하는 퍼블리셔
