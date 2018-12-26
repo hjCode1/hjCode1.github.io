@@ -9,12 +9,12 @@ tag:
 
 ---
 
-#img요소에 background-size: cover 효과를 낼 수 있는 object-fit: cover
+## img요소에 background-size:cover 효과를 낼 수 있는 object-fit:cover
 
 ‘object-fit: cover’ 속성은 IE, EDGE 브라우저에서는 적용되지 않는 CSS 속성입니다. 하지만 글 아래부분에 IE, EDGE 브라우저에도 img요소에 background-size: cover 효과를 낼 수 있는 방법을 적어놓았습니다
 
 
-##object-fit의 속성
+## object-fit의 속성
 ```
 object-fit: fill;
 object-fit: contain;
