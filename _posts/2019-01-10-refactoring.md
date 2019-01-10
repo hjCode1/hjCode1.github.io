@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "img요소에 background-size: cover 효과를 낼 수 있는 object-fit: cover"
+title:  "Refactoring"
 date:   2018-12-26
 tag:
 - blog
