@@ -31,7 +31,7 @@ object-fit: scale-down;
 ### IE, EDGE에서 적용하기
 
 ```js
-<script>
+
 // Detect objectFit support
 if('objectFit' in document.documentElement.style === false) {
   
@@ -61,7 +61,7 @@ else {
   // You don't have to worry
   console.log('No worries, your browser supports objectFit')
 }
-</script>
+
 ```
 
 [codepen에서 확인](https://codepen.io/pawelgrzybek/pen/Rrybqg)
