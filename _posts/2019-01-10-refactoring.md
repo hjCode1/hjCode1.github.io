@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Refactoring"
-date:   2018-12-26
+date:   2019-01-10
 tag:
 - blog
 - refactoring
