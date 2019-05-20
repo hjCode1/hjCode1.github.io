@@ -15,16 +15,16 @@ tag:
 
 이벤트 중단에 사용되는 방식은 다음과 같다
 
-#### event.preventDefault()
+### event.preventDefault()
 현재 이벤트의 기본 동작을 중단한다.
 
-#### event.stopPropagation()
+### event.stopPropagation()
 현재 이벤트가 상위로 전파되지 않도록 중단한다.
 
-#### event.stopImmediatePropagation()
+### event.stopImmediatePropagation()
 현재 이벤트가 상위 뿐 아니라 현재 레벨에 걸린 다른 이벤트도 동작하지 않게 중단한다.
 
-#### return false
+### return false
 제이쿼리를 사용할 때는 위의 두개를 모두 사용한 것과 같고,
 제이쿼리를 사용하지 않을 때는 event.preventDefault()와 같다.
 
